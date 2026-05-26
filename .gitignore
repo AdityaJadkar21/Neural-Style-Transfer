@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pth
+*.log
+*.mp4
+*.zip
+*.tar
+*.gz
